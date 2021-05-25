@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\bin\Debug\ChequeEXtenso.ConsoleApp.exe.config
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\bin\Debug\ChequeEXtenso.ConsoleApp.exe
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\bin\Debug\ChequeEXtenso.ConsoleApp.pdb
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\obj\Debug\ChequeEXtenso.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\obj\Debug\ChequeEXtenso.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\obj\Debug\ChequeEXtenso.ConsoleApp.exe
+C:\Users\rafae\source\repos\ChequeEXtenso.ConsoleApp\ChequeEXtenso.ConsoleApp\obj\Debug\ChequeEXtenso.ConsoleApp.pdb
